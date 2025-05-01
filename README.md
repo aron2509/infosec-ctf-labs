@@ -49,7 +49,7 @@ sudo ./install_ctf.sh
 Шаблон отчёта находится здесь:
 
 ```
-01-ssh-backdoor/scripts/template.txt
+template.txt
 ```
 
 Откройте его, заполните все пункты и сохраните.
