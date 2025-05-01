@@ -7,4 +7,4 @@
 ## 🔧 Запуск задания
 
 ```bash
-sudo ./01-ssh-backdoor/scripts/setup_ctf_env.sh
+sudo ./install_ctf.sh
