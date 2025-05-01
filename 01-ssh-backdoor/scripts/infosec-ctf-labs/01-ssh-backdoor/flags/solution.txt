@@ -1,9 +1,0 @@
-Флаги CTF (эталонные ответы):
-
-1. 2 пользователя (student и backdooruser)
-2. backdooruser
-3. ssh-rsa AAAAB3NzaFakeStu
-4. ssh-rsa AAAAB3NzaC1yc2EB
-5. 2021-01-01 01:01:00
-6. proctitle="bash", exe="/usr/bin/bash"
-7. proctitle="tee", exe="/usr/bin/tee"
