@@ -1,1 +1,1 @@
-# infosec-ctf-labs
+404: Not Found
