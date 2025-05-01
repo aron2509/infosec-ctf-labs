@@ -21,6 +21,8 @@
 
 Перед началом необходимо запустить установку окружения CTF:
 
+01-ssh-backdoor/scripts
+
 ```bash
 sudo ./install_ctf.sh
 ```
